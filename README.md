@@ -33,11 +33,9 @@ Instructions
 
 --------------------------------------------------------------------------------
 >>>>Technological Educational Institute of Crete
->>>>Course: Programming Languages
->>>>Teacher: Kondylakis Charis
 
 >Project: Minesweeper Game
 
 >Written By:
-  -Maria Papadaki
   -Alexandris Konstantinos
+  -Maria Papadaki
