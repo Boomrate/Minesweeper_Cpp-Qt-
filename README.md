@@ -28,7 +28,7 @@ Instructions
    -Last, in case you want to play again the restart button is there for you
 
 
-Good Luck and Have Fun!! 
+>Good Luck and Have Fun!! 
 
 
 --------------------------------------------------------------------------------
